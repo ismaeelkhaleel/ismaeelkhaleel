@@ -1,49 +1,83 @@
-# Hi, I'm Mohammad Ismaeel 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Mohammad+Ismaeel;Full+Stack+Web+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
+</div>
 
-I'm a passionate web developer and competitive programmer. I love building web apps and solving algorithmic challenges.  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="200"/>
+</p>
 
-Check out my portfolio: [mohdismaeel.me](https://www.mohdismaeel.me)
+## 💫 About Me
 
----
+- 🔭 I’m currently working on: Web Development & Portfolio Projects  
+- 🌱 I’m currently learning: React.js, Node.js, Express.js  
+- 👯 I’m looking to collaborate on: Full Stack Projects  
+- 🤔 I’m looking for help with: Advanced JavaScript & Backend  
+- 💬 Ask me about: Git, GitHub, Cloud Deployment  
+- 📫 How to reach me: [Twitter](https://twitter.com/mohdismaeel)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love coding challenges and building cool projects
 
-## 🛠️ Skills & Tech Stack
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohdismaeel/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/mohdismaeel">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://github.com/mohdismaeel">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.mohdismaeel.me">
+    <img src="https://img.shields.io/badge/Portfolio-mohdismaeel.me-1abc9c?logo=Google-Chrome&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,git,python,django,mysql,tailwind" />
+</p>
+
+## 🚀 Skills
 
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
+- **Backend:** Node.js, Express.js, Django, Python  
 - **Databases:** MongoDB, MySQL  
-- **Tools & Platforms:** Git, GitHub, VS Code, Cloudinary  
+- **Tools:** Git, GitHub, Cloudinary, VS Code  
+- **Other:** REST APIs, OOP, Deployment  
 
----
+## 📚 Projects
 
-## 🏆 Competitive Programming & Coding Stats
+### 1. **[Portfolio Website](https://www.mohdismaeel.me)**
+A modern responsive portfolio to showcase my projects and skills.  
+**Tech Stack:** HTML, CSS, JavaScript, React, Tailwind CSS
 
-### LeetCode
-![Mohammad's LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=YourLeetCodeUsername)
+### 2. **[Project 2 Name](#)**
+Short description of project.  
+**Tech Stack:** Node.js, Express.js, MongoDB  
 
-### GeeksforGeeks
-![Mohammad's GFG Stats](https://profile-summary-for-github.vercel.app/api/developer?username=YourGFGUsername&show_icons=true)
+*(Add your other projects here with links to GitHub repos)*
 
----
+## 📊 GitHub Stats
 
-## 📂 Featured Projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohdismaeel&theme=dark&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdismaeel&theme=dark" />
+</p>
 
-- [Project 1](#) – Short description  
-- [Project 2](#) – Short description  
-- [Project 3](#) – Short description  
+## 🏆 GitHub Trophies
 
-*(You can link these to your GitHub repositories or portfolio projects)*
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohdismaeel&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
 
----
+[![](https://visitcount.itsvg.in/api?id=mohdismaeel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Connect with Me
+## 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mohdismaeel.me-1abc9c?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.mohdismaeel.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mohdismaeel)
-[![Twitter](https://img.shields.io/badge/Twitter-@Mohammad-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mohdismaeel)
-[![GitHub](https://img.shields.io/badge/GitHub-Mohammad-black?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mohdismaeel)
-
----
-
-## 📈 GitHub Stats
-
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdismaeel&show_icons=true&theme=radical)
+- GitHub: [mohdismaeel](https://github.com/mohdismaeel)  
+- LinkedIn: [Mohammad Ismaeel](https://www.linkedin.com/in/mohdismaeel/)  
+- Twitter: [Mohammad Ismaeel](https://twitter.com/mohdismaeel)  
+- Portfolio: [mohdismaeel.me](https://www.mohdismaeel.me)
