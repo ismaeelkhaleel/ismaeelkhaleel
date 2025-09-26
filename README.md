@@ -77,7 +77,8 @@ Short description of project.
 
 ## 📫 Let's Connect
 
-- GitHub: [mohdismaeel](https://github.com/mohdismaeel)  
-- LinkedIn: [Mohammad Ismaeel](https://www.linkedin.com/in/mohdismaeel/)  
-- Twitter: [Mohammad Ismaeel](https://twitter.com/mohdismaeel)  
+- GitHub: [ismaeelkahell](https://github.com/ismaeelkhaleel)  
+- LinkedIn: [Mohd Ismaeel](https://www.linkedin.com/in/mohd-ismaeel/)
+- Leetcode: [Mohd Ismaeel](https://leetcode.com/u/Mohd_Ismaeel/)
+- Geeksforgeeks: [Mohd Ismaeel](https://www.geeksforgeeks.org/user/pmohd2/)
 - Portfolio: [mohdismaeel.me](https://www.mohdismaeel.me)
