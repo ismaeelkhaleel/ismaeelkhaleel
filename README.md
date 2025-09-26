@@ -19,13 +19,10 @@
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohdismaeel/">
+  <a href="https://www.linkedin.com/in/mohd-ismaeel/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/mohdismaeel">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://github.com/mohdismaeel">
+  <a href="https://github.com/ismaeelkhaleel">
     <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.mohdismaeel.me">
