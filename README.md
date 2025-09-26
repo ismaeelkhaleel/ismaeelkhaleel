@@ -33,13 +33,13 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,next,bootstrap,nodejs,express,mongodb,git,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,next,bootstrap,nodejs,express,php,mongodb,git,tailwind" />
 </p>
 
 ## 🚀 Skills
 
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
-- **Backend:** Node.js, Express.js, Django, Python  
+- **Backend:** Node.js, Express.js, PHP  
 - **Databases:** MongoDB, MySQL  
 - **Tools:** Git, GitHub, Cloudinary, VS Code  
 - **Other:** REST APIs, OOP, Deployment  
