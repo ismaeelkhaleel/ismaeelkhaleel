@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Mohammad+Ismaeel;Full+Stack+Web+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Mohd+Ismaeel;MERN+Stack+Developer;&center=true&width=500&height=45">
 </div>
 
 <p align="center">
@@ -63,14 +63,14 @@ Short description of project.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohdismaeel&theme=dark&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdismaeel&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ismaeelkhaleel&theme=dark&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismaeelkhaleel&theme=dark" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohdismaeel&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ismaeelkhaleel&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=mohdismaeel&icon=0&color=0)](https://visitcount.itsvg.in)
