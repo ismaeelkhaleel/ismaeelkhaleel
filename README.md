@@ -12,8 +12,7 @@
 - 🌱 I’m currently learning: React.js, Node.js, Express.js  
 - 👯 I’m looking to collaborate on: Full Stack Projects  
 - 🤔 I’m looking for help with: Advanced JavaScript & Backend  
-- 💬 Ask me about: Git, GitHub, Cloud Deployment  
-- 📫 How to reach me: [Twitter](https://twitter.com/mohdismaeel)  
+- 💬 Ask me about: Git, GitHub, Cloud Deployment   
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love coding challenges and building cool projects
 
