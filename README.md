@@ -33,7 +33,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,git,python,django,mysql,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,next,bootstrap,nodejs,express,mongodb,git,tailwind" />
 </p>
 
 ## 🚀 Skills
