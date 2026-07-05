@@ -1,0 +1,28 @@
+<svg width="500" height="150" viewBox="0 0 500 150" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: 600 18px 'Segoe UI', Ubuntu, sans-serif; fill: #1abc9c; }
+    .label { font: 400 13px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+    .value { font: 600 13px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+    .stagger { opacity: 0; animation: fadeIn 0.4s ease-in-out forwards; }
+    @keyframes fadeIn { to { opacity: 1; } }
+  </style>
+  <rect x="0.5" y="0.5" rx="8" width="499" height="149" fill="#0d1117" stroke="#30363d" />
+  <text x="25" y="35" class="title">ismaeelkhaleel's Streak Stats</text>
+  
+  <g class="stagger" style="animation-delay: 0ms" text-anchor="middle" transform="translate(60, 90)">
+    <text x="0" y="0" font-size="28" font-weight="700" fill="#1abc9c">843</text>
+    <text x="0" y="22" class="label">Total Contributions</text>
+  </g>
+
+  <g class="stagger" style="animation-delay: 150ms" text-anchor="middle" transform="translate(220, 90)">
+    <text x="0" y="0" font-size="28" font-weight="700" fill="#1abc9c">4</text>
+    <text x="0" y="22" class="label">Current Streak</text>
+  </g>
+
+  <g class="stagger" style="animation-delay: 300ms" text-anchor="middle" transform="translate(380, 90)">
+    <text x="0" y="0" font-size="28" font-weight="700" fill="#1abc9c">10</text>
+    <text x="0" y="22" class="label">Longest Streak</text>
+  </g>
+  <line x1="150" y1="45" x2="150" y2="120" stroke="#30363d" />
+  <line x1="310" y1="45" x2="310" y2="120" stroke="#30363d" />
+</svg>

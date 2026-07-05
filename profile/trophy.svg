@@ -1,0 +1,47 @@
+<svg width="670" height="165" viewBox="0 0 670 165" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: 600 18px 'Segoe UI', Ubuntu, sans-serif; fill: #1abc9c; }
+    .label { font: 400 13px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+    .value { font: 600 13px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+    .stagger { opacity: 0; animation: fadeIn 0.4s ease-in-out forwards; }
+    @keyframes fadeIn { to { opacity: 1; } }
+  </style>
+  <rect x="0.5" y="0.5" rx="8" width="669" height="164" fill="#0d1117" stroke="#30363d" />
+  <text x="25" y="35" class="title">GitHub Trophies</text>
+  
+  <g class="stagger" style="animation-delay: 0ms" transform="translate(20, 55)">
+    <circle cx="45" cy="30" r="26" fill="none" stroke="#8b949e" stroke-width="3" />
+    <text x="45" y="38" text-anchor="middle" font-size="20" font-weight="700" fill="#8b949e">C</text>
+    <text x="45" y="78" text-anchor="middle" class="label">Stars</text>
+  </g>
+
+  <g class="stagger" style="animation-delay: 80ms" transform="translate(130, 55)">
+    <circle cx="45" cy="30" r="26" fill="none" stroke="#58a6ff" stroke-width="3" />
+    <text x="45" y="38" text-anchor="middle" font-size="20" font-weight="700" fill="#58a6ff">A</text>
+    <text x="45" y="78" text-anchor="middle" class="label">Commits</text>
+  </g>
+
+  <g class="stagger" style="animation-delay: 160ms" transform="translate(240, 55)">
+    <circle cx="45" cy="30" r="26" fill="none" stroke="#8b949e" stroke-width="3" />
+    <text x="45" y="38" text-anchor="middle" font-size="20" font-weight="700" fill="#8b949e">C</text>
+    <text x="45" y="78" text-anchor="middle" class="label">Followers</text>
+  </g>
+
+  <g class="stagger" style="animation-delay: 240ms" transform="translate(350, 55)">
+    <circle cx="45" cy="30" r="26" fill="none" stroke="#58a6ff" stroke-width="3" />
+    <text x="45" y="38" text-anchor="middle" font-size="20" font-weight="700" fill="#58a6ff">A</text>
+    <text x="45" y="78" text-anchor="middle" class="label">Repos</text>
+  </g>
+
+  <g class="stagger" style="animation-delay: 320ms" transform="translate(460, 55)">
+    <circle cx="45" cy="30" r="26" fill="none" stroke="#484f58" stroke-width="3" />
+    <text x="45" y="38" text-anchor="middle" font-size="20" font-weight="700" fill="#484f58">—</text>
+    <text x="45" y="78" text-anchor="middle" class="label">Pull Requests</text>
+  </g>
+
+  <g class="stagger" style="animation-delay: 400ms" transform="translate(570, 55)">
+    <circle cx="45" cy="30" r="26" fill="none" stroke="#8b949e" stroke-width="3" />
+    <text x="45" y="38" text-anchor="middle" font-size="20" font-weight="700" fill="#8b949e">C</text>
+    <text x="45" y="78" text-anchor="middle" class="label">Longest Streak</text>
+  </g>
+</svg>

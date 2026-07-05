@@ -1,0 +1,47 @@
+<svg width="420" height="242" viewBox="0 0 420 242" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: 600 18px 'Segoe UI', Ubuntu, sans-serif; fill: #1abc9c; }
+    .label { font: 400 13px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+    .value { font: 600 13px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+    .stagger { opacity: 0; animation: fadeIn 0.4s ease-in-out forwards; }
+    @keyframes fadeIn { to { opacity: 1; } }
+  </style>
+  <rect x="0.5" y="0.5" rx="8" width="419" height="241" fill="#0d1117" stroke="#30363d" />
+  <text x="25" y="35" class="title">ismaeelkhaleel's GitHub Stats</text>
+  
+  <g class="stagger" style="animation-delay: 0ms" transform="translate(25, 65)">
+    <text class="icon" x="0" y="0" font-size="14" fill="#58a6ff">⭐</text>
+    <text class="label" x="22" y="0">Total Stars:</text>
+    <text class="value" x="109" y="0">1</text>
+  </g>
+
+  <g class="stagger" style="animation-delay: 100ms" transform="translate(25, 92)">
+    <text class="icon" x="0" y="0" font-size="14" fill="#58a6ff">📦</text>
+    <text class="label" x="22" y="0">Commits:</text>
+    <text class="value" x="81" y="0">809</text>
+  </g>
+
+  <g class="stagger" style="animation-delay: 200ms" transform="translate(25, 119)">
+    <text class="icon" x="0" y="0" font-size="14" fill="#58a6ff">🔀</text>
+    <text class="label" x="22" y="0">Pull Requests:</text>
+    <text class="value" x="123" y="0">0</text>
+  </g>
+
+  <g class="stagger" style="animation-delay: 300ms" transform="translate(25, 146)">
+    <text class="icon" x="0" y="0" font-size="14" fill="#58a6ff">❗</text>
+    <text class="label" x="22" y="0">Issues:</text>
+    <text class="value" x="74" y="0">0</text>
+  </g>
+
+  <g class="stagger" style="animation-delay: 400ms" transform="translate(25, 173)">
+    <text class="icon" x="0" y="0" font-size="14" fill="#58a6ff">👥</text>
+    <text class="label" x="22" y="0">Followers:</text>
+    <text class="value" x="95" y="0">6</text>
+  </g>
+
+  <g class="stagger" style="animation-delay: 500ms" transform="translate(25, 200)">
+    <text class="icon" x="0" y="0" font-size="14" fill="#58a6ff">📁</text>
+    <text class="label" x="22" y="0">Public Repos:</text>
+    <text class="value" x="116" y="0">33</text>
+  </g>
+</svg>
