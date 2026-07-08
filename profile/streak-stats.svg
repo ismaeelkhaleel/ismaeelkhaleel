@@ -15,7 +15,7 @@
   </g>
 
   <g class="stagger" style="animation-delay: 150ms" text-anchor="middle" transform="translate(220, 90)">
-    <text x="0" y="0" font-size="28" font-weight="700" fill="#1abc9c">5</text>
+    <text x="0" y="0" font-size="28" font-weight="700" fill="#1abc9c">0</text>
     <text x="0" y="22" class="label">Current Streak</text>
   </g>
 
