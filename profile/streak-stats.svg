@@ -10,12 +10,12 @@
   <text x="25" y="35" class="title">ismaeelkhaleel's Streak Stats</text>
   
   <g class="stagger" style="animation-delay: 0ms" text-anchor="middle" transform="translate(60, 90)">
-    <text x="0" y="0" font-size="28" font-weight="700" fill="#1abc9c">872</text>
+    <text x="0" y="0" font-size="28" font-weight="700" fill="#1abc9c">875</text>
     <text x="0" y="22" class="label">Total Contributions</text>
   </g>
 
   <g class="stagger" style="animation-delay: 150ms" text-anchor="middle" transform="translate(220, 90)">
-    <text x="0" y="0" font-size="28" font-weight="700" fill="#1abc9c">3</text>
+    <text x="0" y="0" font-size="28" font-weight="700" fill="#1abc9c">1</text>
     <text x="0" y="22" class="label">Current Streak</text>
   </g>
 
