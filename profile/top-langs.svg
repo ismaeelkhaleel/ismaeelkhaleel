@@ -13,28 +13,28 @@
     <text class="label" x="0" y="0">JavaScript</text>
     <text class="value" x="320" y="0" text-anchor="end">76.2%</text>
     <rect x="0" y="8" width="320" height="6" rx="3" fill="#30363d" />
-    <rect x="0" y="8" width="243.71931789135434" height="6" rx="3" fill="#f1e05a" />
+    <rect x="0" y="8" width="243.74372895709956" height="6" rx="3" fill="#f1e05a" />
   </g>
 
   <g class="stagger" style="animation-delay: 100ms" transform="translate(25, 89)">
     <text class="label" x="0" y="0">Jupyter Notebook</text>
     <text class="value" x="320" y="0" text-anchor="end">12.0%</text>
     <rect x="0" y="8" width="320" height="6" rx="3" fill="#30363d" />
-    <rect x="0" y="8" width="38.26741482770792" height="6" rx="3" fill="#DA5B0B" />
+    <rect x="0" y="8" width="38.25516862914972" height="6" rx="3" fill="#DA5B0B" />
   </g>
 
   <g class="stagger" style="animation-delay: 200ms" transform="translate(25, 123)">
     <text class="label" x="0" y="0">CSS</text>
     <text class="value" x="320" y="0" text-anchor="end">5.7%</text>
     <rect x="0" y="8" width="320" height="6" rx="3" fill="#30363d" />
-    <rect x="0" y="8" width="18.19852234137079" height="6" rx="3" fill="#663399" />
+    <rect x="0" y="8" width="18.1926985166086" height="6" rx="3" fill="#663399" />
   </g>
 
   <g class="stagger" style="animation-delay: 300ms" transform="translate(25, 157)">
     <text class="label" x="0" y="0">HTML</text>
     <text class="value" x="320" y="0" text-anchor="end">3.9%</text>
     <rect x="0" y="8" width="320" height="6" rx="3" fill="#30363d" />
-    <rect x="0" y="8" width="12.620519249729176" height="6" rx="3" fill="#e34c26" />
+    <rect x="0" y="8" width="12.616480477177237" height="6" rx="3" fill="#e34c26" />
   </g>
 
   <g class="stagger" style="animation-delay: 400ms" transform="translate(25, 191)">
