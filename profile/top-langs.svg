@@ -13,35 +13,35 @@
     <text class="label" x="0" y="0">JavaScript</text>
     <text class="value" x="320" y="0" text-anchor="end">74.2%</text>
     <rect x="0" y="8" width="320" height="6" rx="3" fill="#30363d" />
-    <rect x="0" y="8" width="237.54701034600004" height="6" rx="3" fill="#f1e05a" />
+    <rect x="0" y="8" width="237.5229384952347" height="6" rx="3" fill="#f1e05a" />
   </g>
 
   <g class="stagger" style="animation-delay: 100ms" transform="translate(25, 89)">
     <text class="label" x="0" y="0">Jupyter Notebook</text>
     <text class="value" x="320" y="0" text-anchor="end">9.1%</text>
     <rect x="0" y="8" width="320" height="6" rx="3" fill="#30363d" />
-    <rect x="0" y="8" width="29.08755820058704" height="6" rx="3" fill="#DA5B0B" />
+    <rect x="0" y="8" width="29.07950038477476" height="6" rx="3" fill="#DA5B0B" />
   </g>
 
   <g class="stagger" style="animation-delay: 200ms" transform="translate(25, 123)">
     <text class="label" x="0" y="0">TypeScript</text>
     <text class="value" x="320" y="0" text-anchor="end">8.1%</text>
     <rect x="0" y="8" width="320" height="6" rx="3" fill="#30363d" />
-    <rect x="0" y="8" width="25.78601613078565" height="6" rx="3" fill="#3178c6" />
+    <rect x="0" y="8" width="25.778872905937376" height="6" rx="3" fill="#3178c6" />
   </g>
 
   <g class="stagger" style="animation-delay: 300ms" transform="translate(25, 157)">
     <text class="label" x="0" y="0">CSS</text>
     <text class="value" x="320" y="0" text-anchor="end">4.4%</text>
     <rect x="0" y="8" width="320" height="6" rx="3" fill="#30363d" />
-    <rect x="0" y="8" width="14.028778209792733" height="6" rx="3" fill="#663399" />
+    <rect x="0" y="8" width="14.024891967086958" height="6" rx="3" fill="#663399" />
   </g>
 
   <g class="stagger" style="animation-delay: 400ms" transform="translate(25, 191)">
     <text class="label" x="0" y="0">HTML</text>
     <text class="value" x="320" y="0" text-anchor="end">3.0%</text>
     <rect x="0" y="8" width="320" height="6" rx="3" fill="#30363d" />
-    <rect x="0" y="8" width="9.703155610964494" height="6" rx="3" fill="#e34c26" />
+    <rect x="0" y="8" width="9.700467649322203" height="6" rx="3" fill="#e34c26" />
   </g>
 
   <g class="stagger" style="animation-delay: 500ms" transform="translate(25, 225)">
